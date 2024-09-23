@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Mathur</h1>
 <h3 align="center">Passionate about making Secure Intelligent Machines.</h3>
 
-//- 🌱 I’m currently learning about **AI in ids**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsD01](https://github.com/itsD01)
 
