@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Mathur</h1>
-<h3 align="center">Passionate about making secure Intelligent machines.</h3>
+<h3 align="center">Passionate about making Secure Intelligent Machines.</h3>
 
 - 🌱 I’m currently learning about **AI in ids**
 
