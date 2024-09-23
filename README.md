@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Mathur</h1>
-<h3 align="center">Passionate about making Intelligent computers to secure lives.</h3>
+<h3 align="center">Passionate about making Intelligent machines and securing networks.</h3>
 
-- 🌱 I’m currently learning about **RAG models**
+- 🌱 I’m currently learning about **AI in ids**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsD01](https://github.com/itsD01)
 
